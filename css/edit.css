@@ -49,4 +49,9 @@ input[type="checkbox"] {
   filter: grayscale(100%);
 }
 
-
+#pencil {
+  position: absolute;
+  display: flex;
+  top: 90px;
+  left: 4px;
+}
